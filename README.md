@@ -16,3 +16,6 @@ Residual Analysis
 Prediction and evaluation on the Test set based on Ridge and Lasso Regression Techniques
 Conclusion
 Lasso Regression model was chosen finally, since it makes the insignificant features for the prediction to zero value.
+
+The company wants to know:-Which variables are significant in predicting the price of a house? -How well those variables describe the price of a house?
+Using GridSearchCV the model arrives at a final optimum lambda to determine the house prices using ridge and lasso regression.
